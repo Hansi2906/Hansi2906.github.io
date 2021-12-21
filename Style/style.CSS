@@ -1,0 +1,25 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Calibri, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:12pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:17pt;
+}
+
+h1 {
+  color: yellow;
+}
+
+h2 {
+  padding-top: 50px;
+}
+
